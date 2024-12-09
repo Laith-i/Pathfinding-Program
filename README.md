@@ -42,14 +42,15 @@ This project implements various pathfinding algorithms using `osmnx` and `networ
    git clone https://github.com/Laith-i/Pathfinding-Program.git
    cd Pathfinding-Program
 
-2. install the dependencies:
+2. Install the dependencies:
   ```bash
   pip install -r requirements.txt
-
 
 3. How To Run
   ```bash
   python main.py
+
+
 
 ## Output
 
