@@ -46,10 +46,10 @@ This project implements various pathfinding algorithms using `osmnx` and `networ
   ```bash
   pip install -r requirements.txt
 
-3. How To Run:
+
+3. How to run:
   ```bash
   python main.py
-
 
 
 
