@@ -46,9 +46,12 @@ This project implements various pathfinding algorithms using `osmnx` and `networ
   ```bash
   pip install -r requirements.txt
 
-3. How To Run
+3. How To Run:
   ```bash
   python main.py
+
+
+
 
 
 
@@ -59,7 +62,7 @@ Plots visualizations of paths and performance metrics.
 
 ## Dependencies
 
-1.osmnx
-2.networkx
-3.matplotlib
-4.pandas
+- osmnx
+- networkx
+- matplotlib
+- pandas
