@@ -14,7 +14,6 @@ This project implements various pathfinding algorithms using `osmnx` and `networ
 - Visualizes paths and compares performance metrics of algorithms.
 - Configurable constraints for road safety, congestion, and restricted areas.
 
-## Directory Structure
 
 # Pathfinding Program
 
@@ -43,19 +42,23 @@ This project implements various pathfinding algorithms using `osmnx` and `networ
    git clone https://github.com/Laith-i/Pathfinding-Program.git
    cd Pathfinding-Program
 
-  #install the dependencies:
-pip install -r requirements.txt
+2. install the dependencies:
+  ```bash
+  pip install -r requirements.txt
 
 
- #How To Run
-python main.py
+3. How To Run
+  ```bash
+  python main.py
 
- #Output
+## Output
+
 The program compares various algorithms based on execution time, memory usage, and path length.
 Plots visualizations of paths and performance metrics.
 
- #Dependencies
-osmnx
-networkx
-matplotlib
-pandas
+## Dependencies
+
+1.osmnx
+2.networkx
+3.matplotlib
+4.pandas
