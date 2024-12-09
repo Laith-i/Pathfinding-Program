@@ -50,10 +50,6 @@ This project implements various pathfinding algorithms using `osmnx` and `networ
    ```bash
    python main.py
 
-
-
-
-
 ## Output
 
 The program compares various algorithms based on execution time, memory usage, and path length.
