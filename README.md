@@ -43,13 +43,12 @@ This project implements various pathfinding algorithms using `osmnx` and `networ
    cd Pathfinding-Program
 
 2. Install the dependencies:
-  ```bash
-  pip install -r requirements.txt
-
+   ```bash
+   pip install -r requirements.txt
 
 3. How to run:
-  ```bash
-  python main.py
+   ```bash
+   python main.py
 
 
 
